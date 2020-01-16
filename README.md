@@ -2,7 +2,7 @@
 https://leslie-14.github.io/CharmAndStrange/  
   
 # Controls  
-![My Controls](https://github.com/LesLie-14/CharmAndStrange/blob/master/Keyboard-3.PNG)
+![My Controls](https://github.com/LesLie-14/CharmAndStrange/blob/master/Keyboard-3.PNG)  
 A or Left Direction Key = Move Left  
 D or Right Direction Key = Move Right  
 Space = Jump  
