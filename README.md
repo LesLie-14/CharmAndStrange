@@ -8,4 +8,4 @@ Working controls for the Final Playable Build
 space - jump  
 x - swap worlds  
   
-https://leslie-14.github.io/CharmAndStrangeFinal/
+https://leslie-14.github.io/CharmAndStrange/
