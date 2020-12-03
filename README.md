@@ -1,5 +1,10 @@
 # CharmAndStrange  
+
+## Useful Links:
+### Web-GL Playable Link: 
 https://leslie-14.github.io/CharmAndStrange/  
+### Link to Github project:
+https://github.com/LesLie-14/CharmAndStrangeRepo
   
 # Controls  
 ![My Controls](https://github.com/LesLie-14/CharmAndStrange/blob/master/Keyboard-3.PNG)  
